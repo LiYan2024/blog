@@ -100,5 +100,7 @@ theme: butterfly
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
-deploy:
-  type: ''
+deploy: 
+  type: git
+  repo: https://github.com/LiYan2024/LiYan2024.github.io.git
+  branch: main
