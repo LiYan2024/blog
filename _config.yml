@@ -4,16 +4,16 @@
 
 # Site
 title: Nana
-subtitle: ''
+subtitle: 'lyn'
 description: ''
 keywords:
 author: Nana
-language: en
+language: zh-CN
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://github.com/LiYana2024/LiYan2024.github.io
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -102,5 +102,5 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy: 
   type: git
-  repo: https://github.com/LiYan2024/LiYan2024.github.io.git
+  repo: https://github.com/LiYana2024/LiYan2024.github.io.git
   branch: main
